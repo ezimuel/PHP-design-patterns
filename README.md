@@ -1,4 +1,4 @@
 PHP-design-patterns
 ===================
 
-Collection of PHP design patterns
+Collection of common design patterns in PHP.
